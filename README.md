@@ -189,7 +189,7 @@ Contato
 
 Para colaboração, dúvidas ou acesso, entre em contato com o autor:
 
-Seu Nome
+Contato
 Email: oakbuildersbrasil@gmail.com
 ------------------------------------------
 Licença
